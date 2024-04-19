@@ -95,12 +95,12 @@ ob_end_flush();
 
 	<main id="main" class=" bg-light">
 		<div id="login-left" class="bg-dark">
-			<img src="rent4.jpg" alt="Your Image" style="width: 100%; height: 100%;">
+			<img src="home.jpg" alt="Your Image" style="width: 100%; height: 100%;">
 		</div>
 
 		<div id="login-right" class="bg-light">
 			<div class="w-100">
-				<h4 class="text-white text-center"><b><?php echo $_SESSION['system']['name'] ?></b></h4>
+				<h4 class="text-black text-center"><b><?php echo $_SESSION['system']['name'] ?></b></h4>
 				<br>
 				<br>
 				<div class="card col-md-8">
@@ -128,6 +128,9 @@ ob_end_flush();
 
 
 </body>
+
+
+
 <script>
 	$('#login-form').submit(function(e) {
 		e.preventDefault()
