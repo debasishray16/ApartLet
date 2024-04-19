@@ -170,7 +170,7 @@ house_id REFERENCES houses(id)
 
 #### DBML Code
 
-https://dbdiagram.io/d
+https://dbdiagram.io
 
 ```dbml
 Table categories {
