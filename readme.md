@@ -1,6 +1,7 @@
 #
+**Apartlet** is a property management system designed to efficiently handle property rentals and tenant information. Built using JavaScript for dynamic interactions, CSS for styling, PHP for backend operations, and Hack for performance enhancements, Apartlet provides features for managing houses, categories, payments, system settings, tenants, and user authentication. The system ensures data integrity and consistency through well-defined functional dependencies, delivering a robust platform for seamless property and tenant management.
 
-1. Steps:
+Steps:
 
 - Move the file to Xampp folder location.
 - Then, run the XAMPP server and start Apache and Server and type:
